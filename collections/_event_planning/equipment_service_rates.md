@@ -1,9 +1,9 @@
 ---
-title: Equipment and Services Rates
-order: 3
+title: Equipment and Service Rates
+order: 2
 ---
 
-Austin Convention Center offers an Incentive Rate to the client on equipment and services if the assigned Event Coordinator receives all complete event requirements and specifications thirty-one (31) days out from the first contract day. Add-ons and change orders received thirty (30) days or less from the first contracted day are charged the Standard Rate. Complete event requirements include, but are not limited to:	 
+Palmer Events Center offers an Incentive Rate to the client on equipment and services if the assigned Event Coordinator receives all complete event requirements and specifications thirty-one (31) days out from the first contract day. Add-ons and change orders received thirty (30) days or less from the first contracted day are subject to being charged the Standard Rate. Complete event requirements include, but are not limited to:
 
 - Event schedule or timeline (agenda)
 - Event security requirements

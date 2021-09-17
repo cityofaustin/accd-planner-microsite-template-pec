@@ -1,4 +1,4 @@
 ---
-title: Event Planning, Checklist & Budget
-order: 1
+title: Event Planning, Checklist, & Budget
+order: 0
 ---
