@@ -5,6 +5,8 @@ order: 2
 
 Located on Barton Springs Rd
 
+[![Outdoor Marquee Photo](../assets/images/photos/PEC_Marquee.jpg)](../assets/images/photos/PEC_Marquee.jpg)
+
 ### Preferred Formats
 
 - .jpg (JPEG)

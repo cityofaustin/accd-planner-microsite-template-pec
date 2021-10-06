@@ -9,6 +9,8 @@ It is the policy of the Austin Convention Center that these screens will not be 
 
 ### Overhead Signs Specifications
 
+[![Overhead Sign Photo](../assets/images/photos/PEC_Overhead.jpg)](../assets/images/photos/PEC_Overhead.jpg)
+
 8 digital flat screens are located throughout the facility
 
 ### Preferred Formats
@@ -26,3 +28,4 @@ It is the policy of the Austin Convention Center that these screens will not be 
 ### Resolution
 
 1920 x 1080 pixels
+

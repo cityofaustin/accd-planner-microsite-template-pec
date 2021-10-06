@@ -1,6 +1,6 @@
 ---
 title: Video Best Practices
-order: 4
+order: 5
 ---
 
 - Our team will send an email confirmation once your content has been scheduled or if we have additional questions.
