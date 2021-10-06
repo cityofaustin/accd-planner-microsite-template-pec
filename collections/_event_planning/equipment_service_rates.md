@@ -12,3 +12,5 @@ Palmer Events Center offers an Incentive Rate to the client on equipment a
 - General Service Contractor production and/or A/V schedules
 - Approved floor plans (exhibits, meetings, general session)
 - Utility and technical requirements schedules
+
+[Equipment Service Rates](https://s3.amazonaws.com/assets.palmereventscenter.com/2021/PEC+2021+Rate+Sheet.pdf)

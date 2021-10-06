@@ -13,4 +13,4 @@ A Certificate of Insurance (COI) is required for all events and must be submitte
 - The Certificate Holder to read: City of Austin – Austin Convention Center Department, P.O. Box 1088, Austin, TX 78767-8838.
 - Acceptance of the insurance by the City of Austin should not relieve, limit, or decrease the liability of the client. Any policy deductibles or retention is the responsibility of the client.
 - Clients must control any special or unusual hazards and be responsible for any damage resulting from those hazards. The City of Austin does not represent these insurance requirements which are sufficient to protect the client’s interests or provide adequate coverage.
-- Austin Convention Center will not provide access to the property until proper proof of insurance is provided.
+- Palmer Events Center will not provide access to the property until proper proof of insurance is provided.
