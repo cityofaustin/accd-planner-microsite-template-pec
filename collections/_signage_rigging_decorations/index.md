@@ -4,7 +4,7 @@ order: 0
 ---
 
 - Freeman Audio Visual is the preferred rigging provider for the Palmer Events Center/ACCD.  
-([Freeman Rigging Information](https://ops.palmereventscenter.com/audio_visual))
+([Freeman Structural Rigging Information](https://s3.amazonaws.com/assets.palmereventscenter.com/2021/rigging/Freeman+Event+Technology+ACCD+Structural+Rigging+Information+2021.pdf))
 - Rigging diagrams and Booth layouts MUST be shared with PEC Rigging Supervisor prior to selling booths due to no rig zones in the exhibit halls
 - Rigging is anything with a motor, either lifting or rotating, over 250lbs.
 - Any material or equipment related to signs and/or rigging must be completely removed by the end of the last contract day.
@@ -16,3 +16,4 @@ order: 0
 - [Rigging & Hanging Points section of PEC Ops Policy](https://ops.palmereventscenter.com/rigging_and_hanging)
 - [Download Banner Hanging specifications](https://s3.amazonaws.com/assets.palmereventscenter.com/2021/PEC_BannerDimensions+2019-fnl.pdf)
 - [Download Banner hanging locations](https://s3.amazonaws.com/assets.palmereventscenter.com/2021/pec-level-one-canopy-columns-fnl.pdf)
+- [Download Order Form](https://s3.amazonaws.com/assets.palmereventscenter.com/2021/rigging/Freeman+Event+Technology+ACCD+Production+Rigging+Order+Form+2021.pdf)
