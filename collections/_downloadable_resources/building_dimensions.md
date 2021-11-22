@@ -12,4 +12,4 @@ order: 8
 - [PEC Dressing Rooms](https://s3.amazonaws.com/assets.palmereventscenter.com/2021/measurements/pec-dressing-room-measurements-fnl.pdf)
 - [PEC Service Elevator](https://s3.amazonaws.com/assets.palmereventscenter.com/2021/measurements/pec-freight-elevator-measurements-fnl.pdf)
 - [PEC Meeting Room Corridor Measures](https://s3.amazonaws.com/assets.palmereventscenter.com/2021/measurements/pec-meeting-room-corridor-measurements-fnl.pdf)
-- [PEC Door Measures]()
+- [PEC Door Measures](https://assets.palmereventscenter.com/2021/measurements/pec-door-measurements.pdf)
