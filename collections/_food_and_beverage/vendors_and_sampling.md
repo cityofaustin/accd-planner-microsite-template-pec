@@ -12,4 +12,4 @@ PEC retains the exclusive right to provide, control and retain all food and be
 - ALCOHOLIC BEVERAGES.  All Alcohol must be purchased and served by ACCD Catering by Levy.  Please contact your Catering Sales Manager for any Alcoholic Sampling requests.  Client is responsible for utilities, drayage, equipment needs, permits and the disposal of trash/waste and other related fees to support sampling activities.
 - Restrooms, concession stands, and/or facility kitchens may not be used as exhibitor clean-up areas
 
-[Download Sampling Policy](https://s3.amazonaws.com/assets.palmereventscenter.com/2021/2020_Catering_Sampling_Policy.pdf)
+[Download Sampling Policy](https://assets.palmereventscenter.com/2021/2020_Catering_Sampling_Policy.pdf)

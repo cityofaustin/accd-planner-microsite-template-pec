@@ -11,5 +11,5 @@ order: 2
 - Cylinders of compressed gases require approval by the Fire Marshal. Cylinders must be secured in an upright position at all times.
 - All equipment, materials, and props brought in must have a Fire Marshal approved flammability rating.
 - Exit signs must be visible at all times. Additional exit signs must be provided by the client or GSC if building signs are obscured by drape or booth signage
-- [Download GSC Guide](https://s3.amazonaws.com/assets.palmereventscenter.com/2021/General_Contractor_Guidelines.pdf) – email this copy to your general service contractors.
-- [Download Recommended Contractor List](https://s3.amazonaws.com/assets.palmereventscenter.com/2021/Contractor-+recommendation-list.pdf): PEC has compiled a list of General Service Contractors, Audio Visual Companies, Destination Management companies and other miscellaneous suppliers. If you are looking for anything from bicycle rentals to temporary staffing, we have a suggestion for that.
+- [Download GSC Guide](https://assets.palmereventscenter.com/2021/General_Contractor_Guidelines.pdf) – email this copy to your general service contractors.
+- [Download Recommended Contractor List](https://assets.palmereventscenter.com/2021/Contractor-+recommendation-list.pdf): PEC has compiled a list of General Service Contractors, Audio Visual Companies, Destination Management companies and other miscellaneous suppliers. If you are looking for anything from bicycle rentals to temporary staffing, we have a suggestion for that.

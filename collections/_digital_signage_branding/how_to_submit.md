@@ -11,4 +11,4 @@ Please note that sponsored advertisements are not permitted.
 
 NOTE: All presentation materials must be submitted a minimum of two weeks in advance of your first contract day (see submission deadline date above). Late submissions will incur technical labor charges per our fee schedule ($150 per hour).
 
-[Digital Signage Map](https://s3.amazonaws.com/assets.palmereventscenter.com/2021/PEC_Digital_Signage_Overhead_Locations+-Update.pdf)
+[Digital Signage Map](https://assets.palmereventscenter.com/2021/PEC_Digital_Signage_Overhead_Locations+-Update.pdf)
