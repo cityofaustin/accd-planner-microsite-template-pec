@@ -14,7 +14,6 @@ order: 4
 ### Preferred Formats
 
 - JPG (JPEG)
-- Clients can send Powerpoint slide(s) of their event information per/room to ACCD IT for review, test and deployment.
 
 ### Resolution
 

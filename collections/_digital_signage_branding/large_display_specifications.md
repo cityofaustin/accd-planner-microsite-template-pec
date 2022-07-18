@@ -17,7 +17,6 @@ It is the policy of the Austin Convention Center that these screens will not be 
 
 - .JPG (JPEG)
 - .MP4 and .WMV (for video)
-- .PPTX PowerPoint (16:9 aspect ratio)
 - Set for continuous auto-loop
 
 ### How to submit
