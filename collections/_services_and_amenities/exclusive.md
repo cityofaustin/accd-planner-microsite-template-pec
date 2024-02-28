@@ -3,20 +3,11 @@ title: Exclusive Services
 order: 1
 ---
 
-Below are the services provided exclusively by the PEC and must be contracted & coordinated with your PEC Event Services Team. General information for each service can be found through the links below. More specific planning information can be found in the corresponding navigation section.   
+PEC exclusive services are:
 
-### [Technical Services](/technology)
+- [Food and Beverage](https://www.palmereventscenter.com/catering/) – catered, concessions, and alcohol services
+- [Security](https://www.palmereventscenter.com/security-and-safety/) – unarmed event security, badge checkers, ushers, and Licensed Peace Officers (LPO), Service Yard personnel
+- [Telecommunications and Data Services](https://www.palmereventscenter.com/technology/) - internet services and telephone capabilities
+- [Utilities](https://www.palmereventscenter.com/exhibit/) – electrical services, technical services, water, and drain
 
-Telecommunications and Data Services – internet services, Wi-Fi, telephone capabilities, and digital signage  
-
-### [Security and Safety](safety_and_security)
-
-Unarmed event security, badge checkers, ushers, Licensed Peace Officers (LPO), Paramedics and Service Yard personnel  
-
-### [Utilities](/utilities)
-
-Electrical services, technical services, water, and drainage  
-
-### [Catering](/catering)
-
-Food and beverage, concessions, and alcohol services  
+For details, visit our [Services](https://www.palmereventscenter.com/services/) page.
